@@ -1,0 +1,57 @@
+2022-01-04 12:57:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 13:00:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 13:01:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:06:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:06:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:07:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:07:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:08:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:08:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:08:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:08:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:13:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [42102-200]
+2022-01-04 14:18:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DISCIPLINAS VARBINARY(255)": "X'aced0005757200255b4c636f6d2e6d65726361646f6c696272652e656e746974792e4469736369706c696e613b13d71f3096de77c202000078700000000473... (265)"; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [22001-200]
+2022-01-04 14:20:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DISCIPLINAS VARBINARY(255)": "X'aced0005757200255b4c636f6d2e6d65726361646f6c696272652e656e746974792e4469736369706c696e613b13d71f3096de77c202000078700000000473... (265)"; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [22001-200]
+2022-01-04 14:21:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DISCIPLINAS VARBINARY(255)": "X'aced0005757200255b4c636f6d2e6d65726361646f6c696272652e656e746974792e4469736369706c696e613b13d71f3096de77c202000078700000000473... (265)"; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [22001-200]
+2022-01-04 14:21:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DISCIPLINAS VARBINARY(255)": "X'aced0005757200255b4c636f6d2e6d65726361646f6c696272652e656e746974792e4469736369706c696e613b13d71f3096de77c202000078700000000473... (265)"; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [22001-200]
+2022-01-04 14:22:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DISCIPLINAS VARBINARY(255)": "X'aced0005757200255b4c636f6d2e6d65726361646f6c696272652e656e746974792e4469736369706c696e613b13d71f3096de77c202000078700000000473... (265)"; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [22001-200]
+2022-01-04 14:22:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DISCIPLINAS VARBINARY(255)": "X'aced0005757200255b4c636f6d2e6d65726361646f6c696272652e656e746974792e4469736369706c696e613b13d71f3096de77c202000078700000000473... (265)"; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [22001-200]
+2022-01-04 14:22:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DISCIPLINAS VARBINARY(255)": "X'aced0005757200255b4c636f6d2e6d65726361646f6c696272652e656e746974792e4469736369706c696e613b13d71f3096de77c202000078700000000473... (265)"; SQL statement:
+insert into aluno (id, disciplinas, nome) values (null, ?, ?) [22001-200]
